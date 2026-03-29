@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Where exactly do you feel the pain or discomfort?",
+        "category": "chief_complaint"
+    },
+    {
+        "question": "When did this problem first start?",
+        "category": "chief_complaint"
+    },
+    {
+        "question": "What does the sensation feel like — burning, aching, pressing, sharp?",
+        "category": "chief_complaint"
+    },
+    {
+        "question": "Has anything happened in your life around the time this problem started?",
+        "category": "chief_complaint"
+    },
+    {
+        "question": "What makes it worse?",
+        "category": "modality"
+    },
+    {
+        "question": "What gives you relief?",
+        "category": "modality"
+    },
+    {
+        "question": "Does it come at any particular time of day?",
+        "category": "modality"
+    },
+    {
+        "question": "Is it constant or does it come and go?",
+        "category": "modality"
+    },
+    {
+        "question": "Does weather or temperature affect it?",
+        "category": "modality"
+    },
+    {
+        "question": "How has your sleep been lately?",
+        "category": "physical_general"
+    },
+    {
+        "question": "Which side do you prefer to sleep on?",
+        "category": "physical_general"
+    },
+    {
+        "question": "Do you feel hot or cold more often than others?",
+        "category": "physical_general"
+    },
+    {
+        "question": "How is your appetite?",
+        "category": "physical_general"
+    },
+    {
+        "question": "Are there any foods you crave strongly?",
+        "category": "physical_general"
+    },
+    {
+        "question": "Are there any foods you cannot tolerate?",
+        "category": "physical_general"
+    },
+    {
+        "question": "How much water do you drink in a day — are you usually thirsty?",
+        "category": "physical_general"
+    },
+    {
+        "question": "How is your digestion — any issues with bloating, acidity, or bowels?",
+        "category": "physical_general"
+    },
+    {
+        "question": "Do you sweat a lot? If so, where on the body?",
+        "category": "physical_general"
+    },
+    {
+        "question": "How would you describe your mood lately?",
+        "category": "mental"
+    },
+    {
+        "question": "Do you have any fears — heights, dark, crowds, being alone, death?",
+        "category": "mental"
+    },
+    {
+        "question": "How do you handle stress or emotional pressure?",
+        "category": "mental"
+    },
+    {
+        "question": "Do you prefer company or being alone?",
+        "category": "mental"
+    },
+    {
+        "question": "Have you experienced any grief, loss, or shock recently?",
+        "category": "mental"
+    },
+    {
+        "question": "How is your memory and concentration?",
+        "category": "mental"
+    },
+    {
+        "question": "Have you had any significant illness in the past?",
+        "category": "history"
+    },
+    {
+        "question": "Any surgeries or major injuries in the past?",
+        "category": "history"
+    },
+    {
+        "question": "Have you taken any long-term medications?",
+        "category": "history"
+    },
+    {
+        "question": "Does anyone in your family have a similar complaint?",
+        "category": "family_history"
+    },
+    {
+        "question": "Are there any hereditary conditions in your family like diabetes, heart disease, or cancer?",
+        "category": "family_history"
+    },
+    {
+        "question": "What is your occupation and daily routine like?",
+        "category": "lifestyle"
+    }
+]
